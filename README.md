@@ -11,7 +11,7 @@ The project is done to predict the Ford Motors stock price using historical data
 The data was gotten using datareader api.
 The following steps where performed:
 1) Load data
-2) apply min-max sc
+2) apply min-max scaler
 3) Creating Data with Timesteps
 4) LSTM Model
 5) Prediction with test data and plotting of test against train data
@@ -21,7 +21,8 @@ The following steps where performed:
     
     
  # Run Locally
-  Run this commandon ur command line:https://github.com/Raph-09/STOCK-PRICE-PREDICTION-FORD-MOTORS-LSTM-.git
+  Run this command on ur command line:https://github.com/Raph-09/STOCK-PRICE-PREDICTION-FORD-MOTORS-LSTM-.git
+  
   Install the packages that are found #Tech stack
   
  # Tech Stack
